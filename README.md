@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/mbogotech" target="blank"><img src="https://img.shields.io/twitter/follow/mbogotech?logo=twitter&style=for-the-badge" alt="mbogotech" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently practising **React and Ruby on Rails**
 
 - 📝 I regularly write articles on [mbogo.tech](mbogo.tech)
 
-- 💬 Ask me about **React and JavaScript**
+- 💬 Ask me about **React, JavaScript and Ruby on Rails**
 
 - 📫 How to reach me **mbuimbogo99@gmail.com**
 
-- ⚡ Fun fact **I am an open-minded person**
+- ⚡ Fun fact **I am always open to learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
