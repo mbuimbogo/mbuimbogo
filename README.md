@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mbogotech" target="blank"><img src="https://img.shields.io/twitter/follow/mbogotech?logo=twitter&style=for-the-badge" alt="mbogotech" /></a> </p>
 
-- 🌱 I’m currently practising **React and Firebase Project**
+- 🌱 I’m currently working on a Nextjs project **Google clone application**
 
 - 📝 I regularly write articles on [mbogo.tech](mbogo.tech)
 
