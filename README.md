@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Peter Mbui</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="center">Jambo 👋, I'm Peter Mbui</h1>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mbuimbogo&label=Profile%20views&color=0e75b6&style=flat" alt="mbuimbogo" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mbogotech" target="blank"><img src="https://img.shields.io/twitter/follow/mbogotech?logo=twitter&style=for-the-badge" alt="mbogotech" /></a> </p>
 
-- 🌱 I’m currently working on a Nextjs project **Google clone application**
+- 🌱 I’m currently learning Nextjs 
 
 - 📝 I regularly write articles on [mbogo.tech](mbogo.tech)
 
