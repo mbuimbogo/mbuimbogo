@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/mbogotech" target="blank"><img src="https://img.shields.io/twitter/follow/mbogotech?logo=twitter&style=for-the-badge" alt="mbogotech" /></a> </p>
 
-- 🌱 I’m currently learning Nextjs & TypeScript
+- 🌱 I’m currently learning DevOps
 
-- 📝 I regularly write articles on [mbogo.tech](mbogo.tech)
+- 📝 I regularly write articles on [mbogo.tech](https://medium.com/@mbuimbogo99)
 
 - 💬 Ask me about **React, JavaScript and Ruby on Rails**
 
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mbogotech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbogotech" height="30" width="40" /></a>
+<a href="https://twitter.com/shifft____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbogotech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mbuipeter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbuipeter" height="30" width="40" /></a>
 </p>
 
